@@ -1,0 +1,19 @@
+{
+    "name": "com.unknown.helpertools",
+    "version": "1.0.0",
+    "displayName": "Helper Tools",
+    "description": "TODO",
+    "unity": "2021.3",
+    "dependencies": {
+    },
+    "keywords": [
+        "help",
+        "tools",
+        "extentions"
+    ],
+    "author": {
+        "name": "ppacz",
+        "email": "lipensky.tomas@email.cz",
+        "url": "https://github.com/ppacz"
+    }
+}
